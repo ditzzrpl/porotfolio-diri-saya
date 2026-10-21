@@ -21,4 +21,4 @@ Website portofolio pribadi yang saya buat di Kelas Industri UBIG (Paket 1, Mingg
 ## Tautan- Halaman
 
 - Website: menyusul setelah *deploy* ke Vercel
-- Dibuat oleh: Andi Pratama, SMK Mitra
+- Dibuat oleh: Andi Pratama, SMKS Brantas Karangkates
